@@ -3,7 +3,7 @@ Block="/etc/bin" && [[ ! -d ${Block} ]] && exit
 Block > /dev/null 2>&1
 clear
 cowsay -f eyes "esta herramienta desinstala la version pasada de ANTI-DDoS" | lolcat 
-figlet ..dankelthaher.. | lolcat
+figlet Kike rios | lolcat
 BARRA1="\e[0;31m➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\e[0m"
 echo -e "$BARRA1"
 
